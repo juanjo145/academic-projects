@@ -1,4 +1,4 @@
-# Academic Projects
+﻿# Academic Projects
 
 A curated archive of the coursework, assignments, and projects I built throughout my academic journey in software development, from early programming courses to more advanced topics such as data structures, operating systems, and backend development.
 
@@ -11,12 +11,13 @@ A curated archive of the coursework, assignments, and projects I built throughou
 | `data-structures/` | Data structures projects | C |
 | `operating-systems/` | Operating systems coursework and lab activities | C |
 | `programming-techniques/` | Programming techniques course projects (2020) | C |
-| `csharp-exams/` | Practical exams and assessments (2020) | C# |
+| `csharp-techniques/` | C# programming techniques coursework and assessments (2020) | C# |
 | `python-backend/` | Backend development exercises | Python |
+| `web-development/` | Web application prototypes (Flask, PostgreSQL, AWS) | Python |
 
 ## Technologies
 
-C, C#, Python
+C, C#, Python, Flask, PostgreSQL, AWS, HTML/CSS
 
 ## Notes
 
