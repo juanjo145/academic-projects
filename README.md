@@ -1,6 +1,6 @@
-﻿# Academic Projects
+# Academic Projects
 
-A curated archive of the coursework, assignments, and projects I built throughout my academic journey in software development, from early programming courses to more advanced topics such as algorithms and backend development.
+A curated archive of the coursework, assignments, and projects I built throughout my academic journey in software development, from early programming courses to more advanced topics such as data structures, operating systems, and backend development.
 
 > **Note:** These projects were developed as part of university courses. They document my learning path and are kept here for reference rather than as production-ready software. For my current work, see the pinned repositories on my [GitHub profile](https://github.com/juanjo145).
 
@@ -12,7 +12,6 @@ A curated archive of the coursework, assignments, and projects I built throughou
 | `operating-systems/` | Operating systems coursework and lab activities | C |
 | `programming-techniques/` | Programming techniques course projects (2020) | C |
 | `csharp-exams/` | Practical exams and assessments (2020) | C# |
-| `algorithms/` | Algorithms course (ADA): solved problems and course materials | Various |
 | `python-backend/` | Backend development exercises | Python |
 
 ## Technologies
