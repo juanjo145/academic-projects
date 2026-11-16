@@ -1,8 +1,8 @@
-﻿# Academic Projects
+# Academic Projects
 
 A curated archive of the coursework, assignments, and projects I built throughout my academic journey in software development, from early programming courses to more advanced topics such as data structures, operating systems, and backend development.
 
-> **Note:** These projects were developed as part of university courses. They document my learning path and are kept here for reference rather than as production-ready software. For my current work, see the pinned repositories on my [GitHub profile](https://github.com/juanjo145).
+> **Note:** These projects were developed as part of university courses. They document my learning path and are kept here for reference rather than as production-ready software. For an overview of my work, visit my [GitHub profile](https://github.com/juanjo145).
 
 ## Repository Structure
 
